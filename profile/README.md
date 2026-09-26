@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lume-store-org/lume-front/main/docs/logo.svg" alt="Lume Store" width="260" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lume-store-org/lume-front/main/docs/logo-dark.svg" />
+    <img src="https://raw.githubusercontent.com/lume-store-org/lume-front/main/docs/logo.svg" alt="Lume Store" width="260" />
+  </picture>
 </p>
 
 <p align="center">
